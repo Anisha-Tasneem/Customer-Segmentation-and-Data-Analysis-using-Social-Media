@@ -1,0 +1,38 @@
+LOOKUP TABLE   	LOOKUPVALUE
+Dhaka  	1
+Gazipur	2
+Chittagong	3
+Sylhet	4
+Cox's Bazar	5
+Khulna	6
+Rajshahi	7
+Barisal	8
+Rangpur	9
+Comilla	10
+Narayanganj	11
+Tangail	12
+Mymensingh	13
+Jessore	14
+Narsingdi	15
+Kushtia 	16
+Bogura	17
+Dinajpur	18
+Faridpur	19
+Jamalpur	20
+Noakhali	21
+
+
+
+
+
+Product	Product Code
+Celina	1
+Khaadi	2
+Sapphire	3
+Mushq	4
+Baroque	5
+Sana Safinaz	6
+Ethnic	7
+Maria B.	8
+Faraz Manan	9
+Amir Adnan	10

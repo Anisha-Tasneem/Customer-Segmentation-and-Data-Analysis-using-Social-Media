@@ -1,0 +1,29 @@
+Customer Id 
+customer name 
+gender 
+city 
+address (division) 
+Product details ( Brand ) 
+Product price (Taka) 
+Delivery Charge (Taka)
+Total bill (Taka)
+Phone Number
+
+
+'Celina' 5599
+'Khaadi' 5990 
+'Sapphire' 7180
+'Mushq' 6890
+'Baroque' 7560
+'Sana Safinaz' 10,590
+'Ethnic' 6500
+'Maria B.' 7500
+'Faraz Manan' 90000
+'Amir Adnan' 9550
+
+'Customer Id', 'customer name', 'gender', 'city', 'Address','Product details ( Brand )','Product Price (Taka)','Delivery Charge (Taka)', 'Total Bill(Taka)',  'Phone Number'
+
+City:
+Dhaka, Chittagong, Sylhet, Khulna, Rajshahi, Barisal, Rangpur, Comilla, Narayanganj, Gazipur, Tangail, Mymensingh, Cox's Bazar, Jessore, Narsingdi, Kushtia, Bogura, Dinajpur, Faridpur, Jamalpur
+
+
